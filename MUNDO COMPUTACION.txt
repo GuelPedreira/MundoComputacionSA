@@ -1,0 +1,37 @@
+
+GESTIÓN DE STOCK
+
+Empresa Mundo Computación S.A. (proveedora de productos informáticos de hardware)
+
+Depósito:
+
+El recinto de depósito es de tamaño medio, por lo que no puede albergar mas de 100 unidades de
+cada uno de los productos.
+
+Se encarga de la compra de mercadería y su salida a las áreas de producción y atención al público.
+
+Al momento de retirar mercadería, se resta su cantidad del stock.
+
+Ejemplo de productos y precios:
+
+Gabinete		        $25.000 
+Memoria RAM		        $15.000
+Fuente de alimentación		$10.000 
+Mircroprocesadores	    	$100.000
+Discos Rígidos		    	$20.000
+Motherboards		    	$50.000
+Mouses			        $3.000
+Teclados		        $5.000
+Parlantes		        $6.000
+Micrófonos		        $3.000
+       
+El programa permite:
+
+• Cargar un stock inicial o un producto nuevo.
+• Comprar stock y/o actualizar el precio.
+• Ver un listado de los productos y sus códigos. También se ve su precio unitario.
+• Informar el stock de cada uno de los productos
+• Informar el costo total de un producto determinado
+• Informar el costo total de todos los productos
+• Retirar stock (mostrando el costo de los productos retirados)
+• Altas Bajas y Modificaciones a todos los productos
